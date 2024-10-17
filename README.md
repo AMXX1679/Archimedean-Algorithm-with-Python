@@ -10,10 +10,6 @@ A Python application that calculates an approximation of Pi using an Archimedean
 
 ---
 
-![Modern Pi Calculator](https://link-to-your-image.png)  <!-- Replace with your image link -->
-
----
-
 ## **Table of Contents**
 - [Introduction](#introduction)
 - [Archimedean Algorithm Explained](#archimedean-algorithm-explained)
@@ -73,7 +69,7 @@ As the number of sides \( n \) increases, this approximation gets closer to the 
 
 In the diagram below, a polygon with `n` sides is inscribed inside a circle. As `n` increases, the perimeter of the polygon approaches the circumference of the circle.
 
-![Polygon Inscribed in Circle](https://link-to-polygon-image.png)  <!-- Replace with your image link -->
+![Polygon Inscribed in Circle]([https://link-to-polygon-image.png](https://github.com/AMXX1679/Archimedean-Algorithm-with-Python/blob/main/pi-I3.jpg?raw=true))  <!-- Replace with your image link -->
 
 As the number of sides grows:
 1. A 3-sided polygon (triangle) gives a very rough estimate of Pi.
@@ -125,10 +121,10 @@ cd pi-calculator
 
 ### **Main Window**
 
-![Main Window](https://link-to-main-window-image.png)  <!-- Replace with your image link -->
+![Main Window]([https://link-to-main-window-image.png](https://github.com/AMXX1679/Archimedean-Algorithm-with-Python/blob/main/main_window.png?raw=true))  <!-- Replace with your image link -->
 
 ### **Polygon Visualization**
 
 Below is an example of a 100-sided polygon inscribed in a circle.
 
-![Polygon Visualization](https://link-to-visualization-image.png)  <!-- Replace with your image link -->
+![Polygon Visualization]([https://link-to-visualization-image.png](https://github.com/AMXX1679/Archimedean-Algorithm-with-Python/blob/main/Polygon_Visualization.png?raw=true))  <!-- Replace with your image link -->
