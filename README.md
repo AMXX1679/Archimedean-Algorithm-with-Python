@@ -1,7 +1,3 @@
-Here's a detailed example of how you can structure your README file, including images, explanations, and the Archimedean algorithm. This example also assumes you will host the images either in the repository or a cloud platform (like GitHub, Imgur, etc.).
-
-### README.md
-
 ---
 
 # **Modern Pi Calculator**
